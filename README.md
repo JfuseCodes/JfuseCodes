@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead]<img src="https://i.ibb.co/CHYGYyH/Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2.png" alt="Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2" border="0">https://github.com/JfuseCodes
+<img src="https://i.ibb.co/CHYGYyH/Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2.png" alt="Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2" border="0">https://github.com/JfuseCodes
