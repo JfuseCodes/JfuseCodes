@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JfuseCodes/JfuseCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://i.ibb.co/gWRD4WC/Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2.png" alt="Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2" border="0">https://github.com/JfuseCodes
+
+[![JfuseCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JfuseCodes)](https://github.com/JfuseCodes/github-readme-stats)
