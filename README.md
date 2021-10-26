@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <img src="https://i.ibb.co/gWRD4WC/Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2.png" alt="Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2" border="0">https://github.com/JfuseCodes
 
-[![JfuseCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JfuseCodes)](https://github.com/JfuseCodes/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JfuseCodes&layout=compact)](https://github.com/JfuseCodes/github-readme-stats)[![JfuseCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JfuseCodes&layout=compact)](https://github.com/JfuseCodes/github-readme-stats)
+[![JfuseCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JfuseCodes)](https://github.com/JfuseCodes/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JfuseCodes&layout=compact)](https://github.com/JfuseCodes/github-readme-stats)
+
+[![JfuseCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JfuseCodes)](https://github.com/JfuseCodes/github-readme-stats)
+
 
 [![wakatime](https://wakatime.com/badge/user/aef47d24-80a6-44dd-810e-86167099636a.svg)](https://wakatime.com/@aef47d24-80a6-44dd-810e-86167099636a)
 
