@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://i.ibb.co/gWRD4WC/Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2.png" alt="Gold-Black-Modern-Occult-Halloween-Event-Business-Halloween-Banner-2" border="0">https://github.com/JfuseCodes
+<img src='https://i.ibb.co/WcrfFN2/Resort-Photo-Twitter-Header.png' border="0">
 
 [![JfuseCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JfuseCodes)](https://github.com/JfuseCodes/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JfuseCodes&layout=compact)](https://github.com/JfuseCodes/github-readme-stats)
 
