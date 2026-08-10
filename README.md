@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 <img src='https://i.ibb.co/WcrfFN2/Resort-Photo-Twitter-Header.png' border="0">
 
+[![Jfuse's GitHub stats](https://github-stats-extended.vercel.app/api?username=jfusecodes)](https://github.com/stats-organization/github-stats-extended)
+
+
+<!--
 [![JfuseCodes's GitHub stats](github-stats-extended.vercel.app/api?username=JfuseCodes)](https://github.com/stats-organization/github-stats-extended)[![Top Langs](github-stats-extended.vercel.app/api/top-langs/?username=JfuseCodes&layout=compact)](https://github.com/JfuseCodes/github-readme-stats)
 
 [![JfuseCodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JfuseCodes)](https://github.com/JfuseCodes/github-readme-stats)
+-->
+
 
 [![wakatime](https://wakatime.com/badge/user/aef47d24-80a6-44dd-810e-86167099636a.svg)](https://wakatime.com/@aef47d24-80a6-44dd-810e-86167099636a)
 
